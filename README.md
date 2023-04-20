@@ -1,7 +1,7 @@
-# Parameter_Optimization_Of_SVM
+# Parameter Optimization Of SVM
 
 ## Introduction
-This assignment illustrates a way of finding the optimal hyperparameter of Support Vector Classifier. The data set used here is AI4I 2020 Predictive Maintenance Dataset Data Set from UCI repository.
+This assignment illustrates a way of finding the optimal hyperparameter of SVC. The data set used here is AI4I 2020 Predictive Maintenance Dataset Data Set from UCI repository.
 
 
 ## Dataset
